@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    >
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchMode="columnWidth"
+        android:rowCount="6"
+        android:columnCount="5"
+        android:useDefaultMargins="true"
+        android:id="@+id/activity_drag_and_drop">
+
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+        </LinearLayout>
+
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bfazeli"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bnguyen336"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dkim127"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dnguyen1214"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dnovasky"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dpham147"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fjuarez6"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gbyers01"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/hho"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ischenck"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/jcabrera31"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/jkloppenburg1"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/kfrederick5"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ltruong58"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mmizukami"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mpaulding"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/nhoang53"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/rbarron11"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/snguyen171"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/tmorrissey1"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/vnguyen629"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/vnguyen678"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+        <LinearLayout android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/wlee"
+                android:scaleType="fitStart"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="@drawable/normal_shape"
+            android:layout_height="145dp"
+            android:layout_width="145dp">
+
+        </LinearLayout>
+    </GridLayout>
+
+
+
+</LinearLayout>
